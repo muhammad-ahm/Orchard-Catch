@@ -29,7 +29,6 @@ difficulty curve.
 
 - **itch.io**: https://madebyahmed.itch.io/orchard-catch
 - **Y8**: _link here once published_
-- **Google Play**: _link here once published_
 
 ## Controls
 
